@@ -8,5 +8,8 @@ function test() {
 
   function subFunc(a, b, c) {
     return (a + b + c) / 3;
+}
+  function demo(){
+    console.log('demo')
   }
 }
